@@ -1,0 +1,13 @@
+﻿  functionsImg.cpp
+  functionsStructs.cpp
+  functionsText.cpp
+C:\Users\godof\Desktop\проекты\Xonix\Xonix\cpp\functionsText.cpp(60,102): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  functionsView.cpp
+  renderBlocks.cpp
+C:\Users\godof\Desktop\проекты\Xonix\Xonix\cpp\renderBlocks.cpp(23,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Main.cpp
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 41 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  Xonix.vcxproj -> C:\Users\godof\Desktop\проекты\Xonix\Release\Xonix.exe
