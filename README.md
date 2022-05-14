@@ -1,3 +1,3 @@
 # Xonix
 Xonix
-<img src="https://ibb.co/Wt4BQ6W">
+<img src="https://img.shields.io/packagist/dt/laravel/framework">
